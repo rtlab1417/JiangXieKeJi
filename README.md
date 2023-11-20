@@ -4,6 +4,7 @@ Hardwares
 1. MCU - STM32F103C8 - a.k.a the Blue Pill
    
 ![image-1](https://github.com/rtlab1417/JiangXieKeJi/assets/65482062/9d559b6f-c6b7-4c5e-bb30-923b342432a0)
+
 3. Breadboard
 4. Buttons, encoder switch, LEDs, OLED 0.96 (I2C), buzzer, light sensors, dc motor, dc motor drive (PWM), USB-Uart Serial Converter, RTC, Servo Motor, MPU6050, W25Q64...(improvised where neccessary)
 5. sufficient numbers of jumper wires
