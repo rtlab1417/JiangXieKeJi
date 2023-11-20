@@ -18,8 +18,7 @@ https://www.bilibili.com/list/watchlater?oid=206940155&bvid=BV1th411z7sn&spm_id_
 教程相关问题及解答：https://jiangxiekeji.com/problem.html
 
 ## Must to have documents
-1. RM0008 Reference manual
-  STM32F101xx, STM32F102xx, STM32F103xx, STM32F105xx and STM32F107xx advanced Arm®-based 32-bit MCUs
+1. RM0008 Reference manual - STM32F101xx, STM32F102xx, STM32F103xx, STM32F105xx and STM32F107xx advanced Arm®-based 32-bit MCUs
 2. Datasheet - STM32F103x8, STM32F103xB
 
 Google these documents. 
