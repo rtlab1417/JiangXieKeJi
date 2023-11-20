@@ -30,5 +30,8 @@ Google these documents.
 ## My Learning Records
 ![myBluePill](https://github.com/rtlab1417/JiangXieKeJi/assets/65482062/0403a9e8-3faa-4365-8ded-078acf9ed212)
 
-
-
+## Editor - Keil MDK
+1. Use standard peripheral library. Forget about setting up the environment. Messy.
+   (If you know chinese, you may refer to the video link above.)
+3. To deploy, copy previous project into new folder. Rename the folder.
+4. Ready to proceed.
